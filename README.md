@@ -1,1 +1,3 @@
 # Team-Hephaestus
+
+Team Hephaestus was one of four teams in Dr. Davide Conte's Spacecraft Systems Engineering course at Embry-Riddle Aeronautical University, Prescott campus during the fall 2019 semester. The class was tasked with developing a conceptual outline for a manned mission to both the Moon and Mars in the early 2030s. Team Hephaestus was assigned the supporting robotic assets portion of the mission. The code in this repository uses the time-dependent Lambert's problem to solve for an interplanetary trajectory from Earth to Mars. This information was used to determine a launch window and launch vehicle.
